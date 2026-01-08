@@ -3,7 +3,7 @@ print("Welcome to the tip calculator built with love by Moses")
 
 # Facts
 bill = float(input("What was your total bill? $"))
-tip_percentage = int(input("How much tip would you like to give? This is already in percentage, please do not add any percentage sign: 10, 12 or 15 "))
+tip_percentage = int(input("How much tip would you like to give? This is already in percentage, do not add any percentage sign: 10, 12 or 15 "))
 how_many_people_splitting = int(input("How many people are splitting this bill? "))
 
 # Calculations
